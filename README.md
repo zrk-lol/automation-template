@@ -1,6 +1,6 @@
 # Automation template
 
-Scheduled automation without a server, by **Vertex Code by Ȥrk Team**: GitHub Actions runs the script on a cron, it checks your sites and alerts you on Discord when one is down.
+Scheduled automation without a server, by **Varhex by Ȥrk Team**: GitHub Actions runs the script on a cron, it checks your sites and alerts you on Discord when one is down.
 
 - Status code and response time for every URL, with a timeout
 - A Markdown report in the terminal and on the GitHub run summary
@@ -27,4 +27,4 @@ npm run dev
 Automatisation sans serveur : GitHub Actions lance le script toutes les 30 minutes, vérifie vos sites et vous alerte sur Discord en cas de panne. Facile à adapter pour d’autres tâches planifiées (rapports, imports, synchronisation).
 
 ---
-Made by [Vertex Code by Ȥrk Team](https://www.zrk.lol) · MIT licence
+Made by [Varhex by Ȥrk Team](https://www.zrk.lol) · MIT licence

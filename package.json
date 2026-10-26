@@ -4,7 +4,7 @@
   "description": "Automation starter: scheduled uptime checks and reports, Discord alerts, GitHub Actions cron.",
   "type": "module",
   "license": "MIT",
-  "author": "Vertex Code by Ȥrk Team",
+  "author": "Varhex by Ȥrk Team",
   "engines": {
     "node": ">=20.6"
   },
