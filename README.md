@@ -27,4 +27,4 @@ npm run dev
 Automatisation sans serveur : GitHub Actions lance le script toutes les 30 minutes, vérifie vos sites et vous alerte sur Discord en cas de panne. Facile à adapter pour d’autres tâches planifiées (rapports, imports, synchronisation).
 
 ---
-Made by [Varhex by Ȥrk Team](https://www.zrk.lol) · MIT licence
+Made by [Varhex by Ȥrk Team](https://varhex.com) · MIT licence
